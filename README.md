@@ -5,7 +5,7 @@
 - 💻 Expertise: JavaScript, React, Node.js, SQL
 
 🌟 Mission Statement
-Passionate about crafting innovative solutions and enhancing user experiences through clean and efficient code. Committed to continuous learning and exploring new technologies to stay at the forefront of web development.
+- Passionate about crafting innovative solutions and enhancing user experiences through clean and efficient code. Committed to continuous learning and exploring new technologies to stay at the forefront of web development.
 
 
 🌟 Highlights
