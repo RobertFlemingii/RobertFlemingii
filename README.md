@@ -6,7 +6,7 @@
 
 🌟 Highlights
 - 🎓 Computer Science graduate | UCSC
-[//]: - 🔗 Check out my projects at https://roflemin.com/
+<!-- 🔗 Check out my projects at https://roflemin.com/ -->
 - ⚡ Passionate about creating seamless user experiences
 
 🛠️ Tech Stack
@@ -21,12 +21,12 @@
 🌐 Connect with Me
 - 📧 Email: robertefleming.ca@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/roflemin/
-[//]: - 🐦 Twitter: https://twitter.com/RobertFlemingII
+<!-- 🐦 Twitter: https://twitter.com/RobertFlemingII -->
 
 📚 Interests
 - Exploring new technologies, open-source contributions, and building side projects
 
-[//]: ⚡ Fun Fact
-[//]: - I once coded a game in a weekend and won a local hackathon!
+<!-- ⚡ Fun Fact -->
+<!-- I once coded a game in a weekend and won a local hackathon! -->
 
 Happy coding! 🚀
